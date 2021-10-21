@@ -5,4 +5,4 @@
 Использовать стоит параллельно с программой arpSpoof.py
    
 ## Пример использования
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/54589783/127738937-3b9f4702-d613-40e8-939e-41f61ac97bef.png)

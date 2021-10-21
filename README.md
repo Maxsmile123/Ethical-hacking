@@ -4,7 +4,5 @@
 * Смена MAC адреса устройства  
 * Сканер сети  
 * ARP-spoofer (Атака Man in the middle)
+* Sniffer пакетов 
 * DNS-spoofer
-
-
-
