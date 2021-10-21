@@ -4,11 +4,7 @@
 * Смена MAC адреса устройства  
 * Сканер сети  
 * ARP-spoofer (Атака Man in the middle)
-
-## Планируется реализовать: 
-* Sniffer пакетов   
-* Code Injector  
 * DNS-spoofer
-* Keylogger
-* Backdoor
+
+
 
