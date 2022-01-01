@@ -10,6 +10,7 @@
 * [DNS-spoofer](DNS_Spoofing)
 * [Перехватчик файлов](File_Interceptor)
 * [Инъектор кода](Code_Injector)
+* [Детектор ARP-spoofing](ARP_Spoofing_Detector)
 
 
 
