@@ -11,6 +11,7 @@
 * [Перехватчик файлов](File_Interceptor)
 * [Инъектор кода](Code_Injector)
 * [Детектор ARP-spoofing](ARP_Spoofing_Detector)
+* [Стилер паролей от WiFi](Wifi_Password_Stealer)
 
 
 
