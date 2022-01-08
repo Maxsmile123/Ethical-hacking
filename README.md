@@ -15,6 +15,7 @@
 * [Стилер паролей с PC](Password_Stealer)
 * [KeyLogger](KeyLogger)
 * [Бэкдор](Backdoor)
+* [Троян](Trojan)
 
 
 
