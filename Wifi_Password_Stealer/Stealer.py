@@ -29,5 +29,5 @@ for network_name in network_names_list:
     except:
         pass
 
-send_mail("email@gmail.com", "password", result)
+send_mail("mail@gmail.com", "password", result)
 
